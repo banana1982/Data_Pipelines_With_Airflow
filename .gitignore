@@ -6,7 +6,7 @@ __pycache__/
 # Configs
 *.cfg
 # Ignore .sh files
-*/*.sh
+/services/*.sh
 
 # Environments
 .env
