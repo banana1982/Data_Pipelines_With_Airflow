@@ -5,6 +5,7 @@ __pycache__/
 
 # Configs
 *.cfg
+*.sh
 
 # Environments
 .env
@@ -14,7 +15,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-*.sh
 logs
 .log
 .vscode
