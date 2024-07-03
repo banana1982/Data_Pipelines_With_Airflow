@@ -14,7 +14,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.sh
+*.sh
 logs
 .log
 .vscode
