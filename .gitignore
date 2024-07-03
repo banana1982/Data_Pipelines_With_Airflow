@@ -20,4 +20,4 @@ venv.bak/
 logs
 .log
 .vscode
-bk
+*.bk
